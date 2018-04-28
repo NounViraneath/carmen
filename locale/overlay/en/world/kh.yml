@@ -1,0 +1,53 @@
+en:
+  world:
+    kh:
+      '01':
+        name: Banteay Meanchey
+      '02':
+        name: Battambang
+      '03':
+        name: Kampong Cham
+      '04':
+        name: Kampong Chhnang
+      '05':
+        name: Kampong Speu
+      '06':
+        name: Kampong Thom
+      '07':
+        name: Kampot
+      '08':
+        name: Kandal
+      '09':
+        name: Koh Kong
+      '10':
+        name: Kratie
+      '11':
+        name: Mondul Kiri
+      '12':
+        name: Phnom Penh
+      '13':
+        name: Preah Vihear
+      '14':
+        name: Prey Veng
+      '15':
+        name: Pursat
+      '16':
+        name: Ratanak Kiri
+      '17':
+        name: Siemreap
+      '18':
+        name: Preah Sihanouk
+      '19':
+        name: Stung Treng
+      '20':
+        name: Svay Rieng
+      '21':
+        name: Takeo
+      '22':
+        name: Oddar Meanchey
+      '23':
+        name: Kep
+      '24':
+        name: Pailin
+      '25':
+        name: Tboung Khmum
