@@ -13,3 +13,7 @@ en:
     ru:
       name: Russia
       official_name: Russian Federation
+    kh:
+      common_name: Khmer
+      name: Cambodia
+      official_name: Kingdom Of Cambodia
